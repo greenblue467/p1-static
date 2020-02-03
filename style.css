@@ -262,6 +262,7 @@ a {
 .info-title {
   font-size: 3.2rem;
   font-weight: bold;
+  color: black;
 }
 
 .info-text {
