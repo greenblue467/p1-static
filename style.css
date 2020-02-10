@@ -670,6 +670,14 @@ a {
   .card {
     grid-template-columns: 25% 25% 25% 25%;
   }
+  @media screen and (min-width: 1200px) {
+    .article-content .content-img img {
+      width: 150%;
+    }
+    .article-content .content-img .casualM {
+      margin-left: 0%;
+    }
+  }
 
   @media screen and (min-width: 1400px) {
     .article-content .content-img img {
